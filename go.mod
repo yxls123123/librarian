@@ -1,4 +1,4 @@
-module github.com/GoAdminGroup/librarian
+module github.com/yxls123123/librarian
 
 go 1.22.2
 
